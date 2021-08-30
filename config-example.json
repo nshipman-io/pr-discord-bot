@@ -1,0 +1,6 @@
+{
+  "Token": "",
+  "BotPrefix": "!",
+  "GitToken": "",
+  "Repos": [{"Name": "foo", "Owner": "bar"}, {"Name": "kubernetes", "Owner": "google"}]
+}
